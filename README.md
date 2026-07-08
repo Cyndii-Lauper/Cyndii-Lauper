@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Minh
-🚀 As an Agentic Engineer at We The Flywheel, I design and build AI-powered systems that leverage Large Language Models (LLMs), autonomous agents, and workflow orchestration to automate complex business processes. My work focuses on developing agent architectures, integrating tools and external services, implementing Retrieval-Augmented Generation (RAG) pipelines, and creating scalable AI solutions that enhance productivity and decision-making across products and operations.
+🚀 As an Agentic Engineer, I design and build AI-powered systems that leverage Large Language Models (LLMs), autonomous agents, and workflow orchestration to automate complex business processes. My work focuses on developing agent architectures, integrating tools and external services, implementing Retrieval-Augmented Generation (RAG) pipelines, and creating scalable AI solutions that enhance productivity and decision-making across products and operations.
 
 I am also a Fullstack Developer with a strong backend focus. My technical interests include Node.js, TypeScript, microservices, event-driven architecture, distributed systems, and cloud-native development. I enjoy building systems that combine robust software engineering principles with the latest advances in AI.
 
